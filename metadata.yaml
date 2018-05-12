@@ -1,0 +1,38 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-CenturiesMasterpieces-of-German-Literatur__30941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+  - agent_name: Howard, William Guild
+    birthdate: 1868
+    deathdate: 1960
+    gutenberg_agent_id: '31593'
+    url: http://www.gutenberg.org/2009/agents/31593
+description: ''
+gutenberg_issued: '2010-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+tableOfContents: The Contemporary Short Story. By Julius Petersen -- The Ball of Crystal.
+  -- Burning Love. -- Gay Hearts. -- Tonio Kröger. -- Matt the Holy. -- The Styrian
+  Wine-Carter. -- Mara. -- In the Old "Sun." -- Stephen the Smith. -- The Iron Idol.
+title: 'The German Classics of the Nineteenth and Twentieth Centuries
+
+  Masterpieces of German Literature Vol. 19'
+url: http://www.gutenberg.org/ebooks/30941

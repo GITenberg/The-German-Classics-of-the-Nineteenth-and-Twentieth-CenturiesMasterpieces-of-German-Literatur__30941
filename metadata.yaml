@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '31593'
     url: http://www.gutenberg.org/2009/agents/31593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30941#The-German-Classics-of-the-Nineteenth-and-Twentieth-CenturiesMasterpieces-of-German-Literatur_
 gutenberg_issued: '2010-01-12'
 gutenberg_type: Text
 identifiers:
